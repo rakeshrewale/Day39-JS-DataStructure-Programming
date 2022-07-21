@@ -1,0 +1,27 @@
+{
+  "name": "array-practice-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PrimefactorArray.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshrewale/Day39-JS-DataStructure-Programming.git"
+  },
+  "keywords": [
+    "Data",
+    "structure",
+    "programming"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshrewale/Day39-JS-DataStructure-Programming/issues"
+  },
+  "homepage": "https://github.com/rakeshrewale/Day39-JS-DataStructure-Programming#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
